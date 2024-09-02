@@ -1,0 +1,1 @@
+Note: Our team used CLI to run the YOLO model, which is why this repository doesn't have any file that runs YOLO. On a side note, using the CLI is not really difficult, and the relevant tutorials are available online.
